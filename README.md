@@ -15,4 +15,4 @@ git pull origin master
 git checkout -b "yusuf-arda"
 (birden fazla kişiyle çalışırken kişinin kendine özel açtıgı çalşma alanı)<br>
 git merge master 
-(çalışma alanlarını birleştir)<br>
+(çalışma alanlarını birleştir)<br>	
